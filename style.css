@@ -1,0 +1,10 @@
+  /* Add some style to your dictionary */
+      .entry {
+        margin: 10px 0;
+      }
+      .term {
+        font-weight: bold;
+      }
+      .definition {
+        margin-left: 20px;
+      }
