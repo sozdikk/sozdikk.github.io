@@ -1,10 +1,17 @@
 {
-	"hello": "Sәлем",
-	"world": "Әлем",
+	"HELLO": "Sәлем",
+	"WORLD": "Әлем",
 	"APPLE": "АЛМА",
-	"thank you": "Рахмет сізге",
+	"THANK YOU": "Рахмет сізге",
 	"YES": "Иә",
 	"NO": "Жоқ"
-"ҚОТАҚ": "dick",
+        "ҚОТАҚ": "dick",
 	"DICK": "қотақ"
+	"CUNT": "AM",
+	"CLOUD": "BULT",
+	"АЛМА": "apple",
+	"бір": "one",
+	"ЕКІ": "two"
+        "үШ": "three",
+	"ТӨРТ": "four"
 }
